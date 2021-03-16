@@ -1,0 +1,38 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+
+.inputBox {
+  min-width: 50%;
+ 
+}
+
+.form {
+  min-height: 10vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  text-align: center;
+}
+
+
+.food {
+  
+    
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  
+}
+
+input {
+  text-align: center;
+}
+
+
